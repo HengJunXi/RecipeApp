@@ -1,4 +1,4 @@
-package com.recipeapp;
+package com.hengjunxi.recipeapp;
 
 import com.facebook.react.ReactActivity;
 
